@@ -1,0 +1,46 @@
+[
+  {
+    "backend": "ibm_fez",
+    "n": 3,
+    "eps_device_alg1": 0.00029364713366930584,
+    "eps_device_ci_lower": 0.0002864614979491975,
+    "eps_device_ci_upper": 0.0002992157321659583,
+    "ibm_cx_error_mean": 0.0332060965450552,
+    "ibm_cx_error_min": 0.0014772285987357248,
+    "ibm_cx_error_max": 1.0,
+    "ratio_alg1_to_ibm": 0.008843169303891984
+  },
+  {
+    "backend": "ibm_fez",
+    "n": 4,
+    "eps_device_alg1": 0.0002972173561904823,
+    "eps_device_ci_lower": 0.000253765418645302,
+    "eps_device_ci_upper": 0.000352842589048441,
+    "ibm_cx_error_mean": 0.0332060965450552,
+    "ibm_cx_error_min": 0.0014772285987357248,
+    "ibm_cx_error_max": 1.0,
+    "ratio_alg1_to_ibm": 0.008950686383363589
+  },
+  {
+    "backend": "ibm_kingston",
+    "n": 3,
+    "eps_device_alg1": 0.00026726706601254424,
+    "eps_device_ci_lower": 0.0002573724290171331,
+    "eps_device_ci_upper": 0.0002775398591682299,
+    "ibm_cx_error_mean": 0.029368859919002958,
+    "ibm_cx_error_min": 0.0008651857476212887,
+    "ibm_cx_error_max": 1.0,
+    "ratio_alg1_to_ibm": 0.009100355504083104
+  },
+  {
+    "backend": "ibm_kingston",
+    "n": 4,
+    "eps_device_alg1": 0.0001777704539871472,
+    "eps_device_ci_lower": 0.00016628766184645372,
+    "eps_device_ci_upper": 0.0001903611520426285,
+    "ibm_cx_error_mean": 0.029368859919002958,
+    "ibm_cx_error_min": 0.0008651857476212887,
+    "ibm_cx_error_max": 1.0,
+    "ratio_alg1_to_ibm": 0.006053025363511704
+  }
+]
